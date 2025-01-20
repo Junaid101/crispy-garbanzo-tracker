@@ -1,0 +1,4 @@
+flask
+motor
+python-dotenv
+pydantic
